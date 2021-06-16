@@ -1,0 +1,19 @@
+{
+  "name": "mi-tienda-virtual",
+  "version": "1.0.0",
+  "description": "Proyecto- Tienda Virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moniruiz/Mi-Tienda-Virtual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moniruiz/Mi-Tienda-Virtual/issues"
+  },
+  "homepage": "https://github.com/moniruiz/Mi-Tienda-Virtual#readme"
+}
